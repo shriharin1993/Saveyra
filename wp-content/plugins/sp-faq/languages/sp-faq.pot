@@ -1,0 +1,241 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP FAQ\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-14 11:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#. Description of the plugin
+msgid ""
+"A simple FAQ plugin created with WordPress custom post type. Also work with "
+"Gutenberg shortcode block."
+msgstr ""
+
+#: faq.php:244
+msgid "Add New Category"
+msgstr ""
+
+#: faq.php:107
+msgid "Add New FAQ"
+msgstr ""
+
+#: faq.php:239
+msgid "All Category"
+msgstr ""
+
+#: faq.php:110
+msgid "All FAQ"
+msgstr ""
+
+#: admin/spfaq-how-it-work.php:192
+msgid "All Shortcodes"
+msgstr ""
+
+#: admin/spfaq-how-it-work.php:204
+msgid "Check plugin document for shortcode parameters and demo for designs."
+msgstr ""
+
+#: admin/spfaq-how-it-work.php:206
+msgid "Demo for Designs"
+msgstr ""
+
+#: admin/spfaq-how-it-work.php:205
+msgid "Documentation"
+msgstr ""
+
+#: faq.php:242
+msgid "Edit Category"
+msgstr ""
+
+#: faq.php:108
+msgid "Edit FAQ"
+msgstr ""
+
+#: faq.php:116
+msgid "FAQ"
+msgstr ""
+
+#: faq.php:246
+msgid "FAQ Category"
+msgstr ""
+
+#: admin/class-spfaq-admin.php:40
+msgid "FAQ Category Shortcode"
+msgstr ""
+
+#: admin/spfaq-how-it-work.php:166
+msgid "Geeting Started with FAQ"
+msgstr ""
+
+#: admin/spfaq-how-it-work.php:243
+msgid "Go Premium "
+msgstr ""
+
+#: admin/spfaq-how-it-work.php:255
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: admin/settings/hire-us.php:18
+msgid "Highlight of Hiring:"
+msgstr ""
+
+#: admin/class-spfaq-admin.php:83
+msgid "Hire Us"
+msgstr ""
+
+#: admin/settings/hire-us.php:15
+msgid "Hire Us - Get unlimited expert WordPress Support and Development"
+msgstr ""
+
+#: admin/spfaq-how-it-work.php:22 admin/spfaq-how-it-work.php:118
+msgid "How It Works"
+msgstr ""
+
+#: admin/spfaq-how-it-work.php:158
+msgid "How It Works - Display and shortcode"
+msgstr ""
+
+#: admin/spfaq-how-it-work.php:22
+msgid "How it works, our plugins and offers"
+msgstr ""
+
+#: admin/spfaq-how-it-work.php:180
+msgid "How Shortcode Works"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.wponlinesupport.com"
+msgstr ""
+
+#: faq.php:95
+#, php-format
+msgid ""
+"It looks like you had PRO version %s of this plugin activated. To avoid "
+"conflicts the extra version has been deactivated and we recommend you delete "
+"it."
+msgstr ""
+
+#: admin/spfaq-how-it-work.php:195
+msgid "Logo Showcase Slider Shortcode"
+msgstr ""
+
+#: admin/spfaq-how-it-work.php:201
+msgid "Need Support?"
+msgstr ""
+
+#: faq.php:245
+msgid "New Category Name"
+msgstr ""
+
+#: faq.php:109
+msgid "New FAQ"
+msgstr ""
+
+#: faq.php:113
+msgid "No FAQ found"
+msgstr ""
+
+#: faq.php:114
+msgid "No FAQ found in Trash"
+msgstr ""
+
+#: admin/spfaq-how-it-work.php:121
+msgid "Our Plugins"
+msgstr ""
+
+#: faq.php:240 faq.php:241
+msgid "Parent Category"
+msgstr ""
+
+#: faq.php:238
+msgid "Search Category"
+msgstr ""
+
+#: faq.php:112
+msgid "Search FAQ"
+msgstr ""
+
+#: admin/spfaq-how-it-work.php:184
+msgid "Step-1. Create a page like FAQ OR add the shortcode in any page."
+msgstr ""
+
+#: admin/spfaq-how-it-work.php:170
+msgid "Step-1. Go to \"FAQ --> Add New\"."
+msgstr ""
+
+#: admin/spfaq-how-it-work.php:171
+msgid "Step-2. Add Title, Description and featured image"
+msgstr ""
+
+#: admin/spfaq-how-it-work.php:185
+msgid "Step-2. Put below shortcode as per your need."
+msgstr ""
+
+#: admin/spfaq-how-it-work.php:172
+msgid ""
+"Step-3. Display multiple FAQs, create categories under \"FAQ --> category\" "
+"and create categories."
+msgstr ""
+
+#: admin/spfaq-how-it-work.php:173
+msgid ""
+"Step-4. Assign FAQ post to respective categories and use the category "
+"shortcode under \"FAQ --> category\""
+msgstr ""
+
+#: faq.php:94
+#, php-format
+msgid "Thank you for activating %s"
+msgstr ""
+
+#: admin/spfaq-how-it-work.php:103
+msgid ""
+"There was an error retrieving the data from the server. Please try again "
+"later."
+msgstr ""
+
+#: faq.php:243
+msgid "Update Category"
+msgstr ""
+
+#: admin/class-spfaq-admin.php:80
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: admin/class-spfaq-admin.php:80
+msgid "Upgrade to PRO - WP FAQ"
+msgstr ""
+
+#: admin/spfaq-how-it-work.php:224
+msgid "Upgrate to Pro"
+msgstr ""
+
+#: faq.php:111
+msgid "View FAQ"
+msgstr ""
+
+#: admin/spfaq-how-it-work.php:244
+msgid "View PRO Demo "
+msgstr ""
+
+#. Name of the plugin
+msgid "WP FAQ"
+msgstr ""
+
+#: admin/settings/premium.php:15
+msgid "WP FAQ - Features"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP OnlineSupport"
+msgstr ""
